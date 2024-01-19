@@ -195,9 +195,12 @@ if __name__ == "__main__":
 請測試此程式是否能夠做出拍攝照片及錄影功能
 ### Step 6將picamera固定於pixycam上:
 利用熱融槍或任何東西將picamera固定於pixycam之上並開啟pixymon和CameraApp對齊兩台相機之角度
-### Step 7開始體驗自動追焦相機
-開始pixymon選定好要追蹤之物體![截圖 2024-01-09 上午10.22.29](https://hackmd.io/_uploads/SJr-CQ9Oa.png)
-開啟pan_tilt_demo開始追蹤物品![截圖 2024-01-09 上午10.23.30](https://hackmd.io/_uploads/rJw8A7qdp.png)
+### Step 7開始體驗自動追焦相機<img width="582" alt="截圖 2024-01-09 上午10 22 29" src="https://github.com/PaulSu0905/IoT-Final-Project-Documentation/assets/106649416/879c421d-13f1-4a86-b3b9-9e59963463da">
+
+開始pixymon選定好要追蹤之物體<img width="582" alt="截圖 2024-01-09 上午10 23 30" src="https://github.com/PaulSu0905/IoT-Final-Project-Documentation/assets/106649416/76f2b9b4-57c8-4229-aeca-97cf58b41dc8">
+
+
+開啟pan_tilt_demo開始追蹤物品
 開啟CameraApp即可幫你想追焦的物品拍照或錄影
 
 
